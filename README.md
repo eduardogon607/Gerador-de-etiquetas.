@@ -1,1 +1,1 @@
-# Gerador-de-etiquetas.
+# Projeto Etiquetas.
